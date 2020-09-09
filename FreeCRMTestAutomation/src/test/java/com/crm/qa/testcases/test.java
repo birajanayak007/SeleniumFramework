@@ -21,7 +21,7 @@ public class test extends TestBase
 //        MySQLDatabase.getInstance().make_Connection();
 //
 //        try {
-//            ResultSet rs= MySQLDatabase.getInstance().excecute_Query("SELECT * FROM client_admin_detail WHERE user_id=23");
+//            ResultSet rs= MySQLDatabase.getInstance().excecute_Query("SELECT * FROM emp WHERE emp_id=1");
 //            System.out.println(rs.getString(0));
 //        } catch (SQLException e) {
 //            e.printStackTrace();
